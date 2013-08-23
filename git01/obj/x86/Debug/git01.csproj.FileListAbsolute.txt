@@ -6,3 +6,4 @@ C:\Users\Welliton\Documents\Visual Studio 2010\Projects\git01\git01\obj\x86\Debu
 C:\Users\Welliton\Documents\Visual Studio 2010\Projects\git01\git01\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Welliton\Documents\Visual Studio 2010\Projects\git01\git01\obj\x86\Debug\git01.exe
 C:\Users\Welliton\Documents\Visual Studio 2010\Projects\git01\git01\obj\x86\Debug\git01.pdb
+C:\Users\Welliton\Documents\Visual Studio 2010\Projects\git01\git01\obj\x86\Debug\git01.Form1.resources
