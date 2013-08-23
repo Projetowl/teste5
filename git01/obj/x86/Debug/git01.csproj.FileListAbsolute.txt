@@ -6,3 +6,12 @@ C:\Users\Welliton\Documents\Visual Studio 2010\Projects\git01\git01\obj\x86\Debu
 C:\Users\Welliton\Documents\Visual Studio 2010\Projects\git01\git01\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Welliton\Documents\Visual Studio 2010\Projects\git01\git01\obj\x86\Debug\git01.exe
 C:\Users\Welliton\Documents\Visual Studio 2010\Projects\git01\git01\obj\x86\Debug\git01.pdb
+C:\teste1\git01\obj\x86\Debug\git01.exe
+C:\teste1\git01\obj\x86\Debug\git01.pdb
+C:\teste1\git01\bin\Debug\git01.exe
+C:\teste1\git01\bin\Debug\git01.pdb
+C:\teste1\git01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\teste1\git01\obj\x86\Debug\git01.Form1.resources
+C:\teste1\git01\obj\x86\Debug\git01.Properties.Resources.resources
+C:\teste1\git01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\teste1\git01\obj\x86\Debug\GenerateResource.write.1.tlog
